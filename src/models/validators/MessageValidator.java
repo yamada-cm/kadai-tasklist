@@ -27,7 +27,7 @@ public class MessageValidator
     {
         if(content==null||content.equals(""))
         {
-            return "メッセージを入力してください。";
+            return "タスクを入力してください。";
         }
 
         return "";
